@@ -1,8 +1,12 @@
 Self-Driving Car Project using NVIDIA CNN Model
+
 Overview
+
 This project implements an end-to-end deep learning pipeline for autonomous driving using NVIDIA's CNN architecture. The model predicts steering angles directly from raw images captured by a car’s front-facing camera. It focuses on preprocessing, feature extraction, and decision-making to enable robust self-driving behavior.
 
 Features
+
+ 
 End-to-End Learning: Direct mapping from images to steering commands.
 Preprocessing: Cropping, resizing, YUV color conversion, and data augmentation for improved model performance.
 NVIDIA CNN Architecture: Convolutional layers for feature extraction and fully connected layers for decision-making.
